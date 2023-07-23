@@ -1,2 +1,3 @@
-# template-springboot
-template springboot
+# openshift-springboot
+openshift springboot
+
